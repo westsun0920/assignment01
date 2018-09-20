@@ -1,3 +1,1 @@
 # assignment01
-
-hello
